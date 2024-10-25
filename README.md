@@ -16,8 +16,8 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 01.11
-- [ ] Erstes Arbeitspaket
-- [ ] ...
+- [ ] Webseite hosten lassen.
+- [ ] 
 - [ ] Viertes AP
 
 
