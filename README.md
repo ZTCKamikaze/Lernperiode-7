@@ -9,14 +9,18 @@ Noten Sind Super! Ich habe immernoch nicht eine Note unter einer 4.5 und bin seh
 Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da ich auf einer Webseite ein Game Programmieren muss, und das geht nur mit Java Skript.
 
 25.10
-[ ] 
+- [ ] Als User mpöchte ich auf die Webseite gehen und eine einladende HomePage sehen
+- [ ] Als User soll ich mich gut auf dieser Webseite zurecht finden.
+- [ ] Als User möchte ich das sich der Entwickler gut mit Java-Skript auskennt. (Repetieren)
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 01.11
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [ ] Viertes AP
+
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
