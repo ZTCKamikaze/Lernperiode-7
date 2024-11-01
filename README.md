@@ -23,6 +23,8 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 - [X] M294 nachholen (2 Aufgaben)
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich zuerst wollte ich meine Webseite von Github hosten lassen, dies hat ziemlich gut funktioniert, aber, mein Logo will nicht hochgeladen werden, bedeutet ich muss mich darum nöchstes mal kümmern. Danach habe ich kurz 2 Aufgaben vom M294 (javascript) wiederholt, da ich ein wenig hinterher hänge, doch ich habe beide geschafft und bin wieder auf dem richtigen Pfad. Danach habe ich mein nächstes Spiel angefangen zu Programmieren, und man sieht auch schon einen Schwarzen Kasten mit den Spielern.  (80 Wörter)
+--> Code im /code Branch nicht im /main Branch 
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
