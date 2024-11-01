@@ -27,4 +27,11 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 --> Code im /code Branch nicht im /main Branch 
 
 
+08.11.2024
+- [ ] Als Nutzer möchte ich ein Logo auf der Webseite sehen
+- [ ] Als Nutzer möchte ich, dass die Webseite voll Funktionsfähig ist (CSS-ID reparieren/problem lösen)
+- [ ] Als Nutzer möchte ich die Schläger der einzelnen Spieler bewegen können.
+- [ ] Als Nutzer möchte ich das Spielfeld vom Spiel Ping Pong sehen.
+
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
