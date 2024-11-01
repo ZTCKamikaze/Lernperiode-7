@@ -23,7 +23,7 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 - [X] M294 nachholen (2 Aufgaben)
 
 
-✍️ Heute habe ich zuerst wollte ich meine Webseite von Github hosten lassen, dies hat ziemlich gut funktioniert, aber, mein Logo will nicht hochgeladen werden, bedeutet ich muss mich darum nöchstes mal kümmern. Danach habe ich kurz 2 Aufgaben vom M294 (javascript) wiederholt, da ich ein wenig hinterher hänge, doch ich habe beide geschafft und bin wieder auf dem richtigen Pfad. Danach habe ich mein nächstes Spiel angefangen zu Programmieren, und man sieht auch schon einen Schwarzen Kasten mit den Spielern.  (80 Wörter)
+✍️ Heute habe ich zuerst wollte ich meine Webseite von Github hosten lassen, dies hat ziemlich gut funktioniert, aber, mein Logo will nicht hochgeladen werden, bedeutet ich muss mich darum nöchstes mal kümmern. Danach habe ich kurz 2 Aufgaben vom M294 (javascript) wiederholt, da ich ein wenig hinterher hänge, doch ich habe beide geschafft und bin wieder auf dem richtigen Pfad. Danach habe ich mein nächstes Spiel angefangen zu Programmieren, und man sieht auch schon einen Schwarzen Kasten. Aber ich habe noch ein problem, ich habe ausversehen etwas die Gleiche ID gegeben um in der CSS-Datei zu Stylen, aber wenn ich es ummbennen möchte, ist das erste Spiel auf der Webseite kaputt und funktioniert nicht mehr und das andere bleibt so wie es ist, ein kleiner schwarzer Kasten, obwohl es auch noch die Spieler zeichnen sollte. Dies muss ich ebenfalls korrigieren. (140 Wörter)
 --> Code im /code Branch nicht im /main Branch 
 
 
