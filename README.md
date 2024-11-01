@@ -20,6 +20,7 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 - [X] Als User möchte ich, dass das Spiel Pong zusehen ist. (Schwarzes Feld mit den "Schlägern")
 - [ ] Für mich als User soll die Homepage ansprechend sein, sodass ich auch die Spiele auf dieser Webseite spielen möchte.
 - [ ] Als User möchte ich, dass die Bilder und Logos alle selber gemacht sind, damit ich mit einem guten Bewustsein die Webseite benutzen kann.(Shiff und Logo selber machen)
+- [ ] M294 nachholen (1 1/2 Aufgaben)
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
