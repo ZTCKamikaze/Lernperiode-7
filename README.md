@@ -16,8 +16,8 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 ✍️ Heute habe ich ein wenig Java-Skript repetiert, doch gestern haben wir ja das Modul 294 angefangen das ebenfalls mit Java-Skript zu tun hat, deshalb musste ich nicht so viel repetieren. Danach habe ich angefangen mein zweites Spiel zu programmieren. Davor musste ich aber erstmal ein paar Vorkehrungen vorteffen, zum Beispiel die css-Datei anpassen, damit das Spiel auch in der Mitte ist und bleibt. (63 Wörter)
 
 01.11.2024
-- [ ] Als User möchte ich, dass die Webseite öffentlich im Internet für jeden Verfügbar ist. (Webseite hosten)
-- [ ] Als User möchte ich, dass das Spiel Pong zusehen ist. (Schwarzes Feld mit den "Schlägern")
+- [X] Als User möchte ich, dass die Webseite öffentlich im Internet für jeden Verfügbar ist. (Webseite hosten)
+- [X] Als User möchte ich, dass das Spiel Pong zusehen ist. (Schwarzes Feld mit den "Schlägern")
 - [ ] Für mich als User soll die Homepage ansprechend sein, sodass ich auch die Spiele auf dieser Webseite spielen möchte.
 - [ ] Als User möchte ich, dass die Bilder und Logos alle selber gemacht sind, damit ich mit einem guten Bewustsein die Webseite benutzen kann.(Shiff und Logo selber machen)
 
