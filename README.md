@@ -33,5 +33,13 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 - [ ] Als Nutzer möchte ich die Schläger der einzelnen Spieler bewegen können.
 - [ ] Als Nutzer möchte ich das Spielfeld vom Spiel Ping Pong sehen.
 
+✍️ Heute habe ich versucht das Problem zu lösen, doch irgendiwe hat es nicht funktioniert, und habe sehr lange rechachiert, aber nichts gefunden, ich muss wahrschienlich weiter suchen. Ausserdem habe ich das Problem mit dem Logo, ein wenig herasusgefunden, das Problem ist, Github kann dieses Bild nicht hosten, sondern nur die Webseite, und hier weiss ich ebenfalls nicht wie ich das reparieren kann. Ich werde es weiterhin versuchen und evtl. auch meine Kollegen fragen, ob sie irgendetwas wissen oder ob sie dieses Problem auch schon mal hatten. (87 Wörter)
+
+
+15.11.2024
+- [ ] Als Nutzer möchte ich ein Logo auf der Webseite sehen
+- [ ] Als Nutzer möchte ich, dass die Webseite voll Funktionsfähig ist (CSS-ID reparieren/problem lösen)
+- [ ] Als Nutzer möchte ich die Schläger der einzelnen Spieler bewegen können.
+- [ ] Als Nutzer möchte ich das Spielfeld vom Spiel Ping Pong sehen.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
