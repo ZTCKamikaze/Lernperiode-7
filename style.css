@@ -4,6 +4,7 @@
     --clr-dark: #1B1E25;
     --clr-gray: #3F3C43;
     --clr-blue: #2895AA;
+    --clr-background: #1A3C4D;
 }
 
 
@@ -224,7 +225,7 @@ header {
 
 .aside {
     grid-area: aside;
-    background-color: var(--clr-lightblue);
+    background-color: var(--clr-background);
     padding: 20px;
     color: var(--clr-black);
     border-right: var(--clr-black) solid 1px;
@@ -233,7 +234,7 @@ header {
 
 .main {
     grid-area: main;
-    background-color: var(--clr-lightblue);
+    background-color: var(--clr-background);
     color: var(--clr-black);
     padding: 20px;
     padding-top: 120px;
@@ -259,4 +260,6 @@ body {
     border-top: 5px solid var(--clr-blue);
     border-bottom: 5px solid var(--clr-blue);
 }
-    
+
+
+

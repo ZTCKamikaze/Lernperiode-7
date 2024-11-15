@@ -208,3 +208,11 @@ function detectCollision(a, b) {
 window.onkeydown = function(e) { 
     return !(e.keyCode == 32);
 };
+
+//disable arrow key scrolling
+document.addEventListener("keydown", function(event) {
+    // Check if the pressed key is an arrow key
+    if (["ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight"].includes(event.key)) {
+        event.preventDefault(); // Prevent the default scrolling behavior
+    }
+});
