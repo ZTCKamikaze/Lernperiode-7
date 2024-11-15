@@ -38,8 +38,14 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 
 15.11.2024
 - [ ] Als Nutzer möchte ich ein Logo auf der Webseite sehen
-- [ ] Als Nutzer möchte ich, dass die Webseite voll Funktionsfähig ist (CSS-ID reparieren/problem lösen)
-- [ ] Als Nutzer möchte ich die Schläger der einzelnen Spieler bewegen können.
-- [ ] Als Nutzer möchte ich das Spielfeld vom Spiel Ping Pong sehen.
+- [X] Als Nutzer möchte ich, dass die Webseite voll Funktionsfähig ist (CSS-ID reparieren/problem lösen)
+- [X] Als Nutzer möchte ich die Schläger der einzelnen Spieler bewegen können.
+- [X] Als Nutzer möchte ich das Spielfeld vom Spiel Ping Pong sehen.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+✍️ Heute habe ich mein Pong Game fertig gemacht und kann nächstes mal mit einem neuen Game anfangen. Das Logo konnte ich jedoch immernoch nicht lösen. Ich werde dies nächstes Mal als erstes probieren. Ich habe auch meinen Hintergrund meiner Webseite nochmals angepasst. Ich habe das Spiel ausprobiert, doch leider geht das Spiel zu lange und bricht nie ab. Deshhalb möchte ich nächstes Mal den Ballspeed erhöhen und wenn ein Spieler 10 Punkte oder sogar nur 5 Punkte erreicht, soll das Spiel abbrechen und man muss die Seite reloden um neu zu spielen. (92 Wörter)
+
+22.11.2024
+- [ ] Als Nutzer möchte ich ein Logo auf der Webseite sehen
+- [ ] Als Nutzer möchte ich, dass die Schnelligkeit des Balls im Pong Game ein wenig schneller ist, damit es nicht so lange geht.
+- [ ] Als Nutzer möchte ich, dass das Pong Game, wenn jemand 10 Punkte erreicht, neu anfängt, bzw aufhört
+- [ ] Als Nutzer möchte ich, das man erkennt, das ein weiters Spiel in arbeit ist (Flappy Bird) und ich das Spielfeld wo das Game hineinkommt schon sehen kann.
