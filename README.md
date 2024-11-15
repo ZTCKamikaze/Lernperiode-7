@@ -49,3 +49,4 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 - [ ] Als Nutzer möchte ich, dass die Schnelligkeit des Balls im Pong Game ein wenig schneller ist, damit es nicht so lange geht.
 - [ ] Als Nutzer möchte ich, dass das Pong Game, wenn jemand 10 Punkte erreicht, neu anfängt, bzw aufhört
 - [ ] Als Nutzer möchte ich, das man erkennt, das ein weiters Spiel in arbeit ist (Flappy Bird) und ich das Spielfeld wo das Game hineinkommt schon sehen kann.
+- [ ] Als Nutzer möchte ich, dass die Neue Webseite veröffentlicht ist.
