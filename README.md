@@ -57,6 +57,8 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 - [ ] Als Nutzer möchte ich ein Logo auf der Webseite sehen
 - [ ] Als Nutzer möchte ich, dass das Pong Game, wenn jemand 10 Punkte erreicht, neu anfängt, bzw aufhört
 - [ ] Als Nutzer möchte ich, das man erkennt, das ein weiters Spiel in arbeit ist (Flappy Bird) und ich das Spielfeld wo das Game hineinkommt schon sehen kann.
-- [ ] an LB294 arbeiten, da ich etwas hintendrin bin
+- [ ] an LB294 arbeiten, da ich etwas hintendrin bin (das Thema des Moduls ist ebenfalls JavaScript)
+
+
 
 
