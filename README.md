@@ -57,8 +57,14 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 - [ ] Als Nutzer möchte ich ein Logo auf der Webseite sehen
 - [ ] Als Nutzer möchte ich, dass das Pong Game, wenn jemand 10 Punkte erreicht, neu anfängt, bzw aufhört
 - [ ] Als Nutzer möchte ich, das man erkennt, das ein weiters Spiel in arbeit ist (Flappy Bird) und ich das Spielfeld wo das Game hineinkommt schon sehen kann.
-- [ ] an LB294 arbeiten, da ich etwas hintendrin bin (das Thema des Moduls ist ebenfalls JavaScript)
+- [X] an LB294 arbeiten, da ich etwas hintendrin bin (das Thema des Moduls ist ebenfalls JavaScript)
+
+✍️ Heute habe ich an der LB für das Modul 294 weitergeabreitet und bin sehr gut weiter gekommen und bin sehr zuversichtlich, dass ich es das nächste mal die LB vollenden kann und auch ebenfalls abgeben. Das nächste mal habe ich keine LB's, beduetet ich werde an meinem Flappy Bird weiter arbeiten und auch das Pong Game den letzen Schliff geben.
 
 
-
+06.12.2024
+- [ ] Als Nutzer möchte ich ein Logo auf der Webseite sehen
+- [ ] Als Nutzer möchte ich, dass das Pong Game, wenn jemand 10 Punkte erreicht, neu anfängt, bzw aufhört
+- [ ] Als Nutzer möchte ich, das man erkennt, das ein weiters Spiel in arbeit ist (Flappy Bird) und ich das Spielfeld wo das Game hineinkommt schon sehen kann.
+- [ ] Als Nutzer möchte ich, dass die Webseite veröffentlicht ist, sodass sie von aussen zugreifbar ist.
 
