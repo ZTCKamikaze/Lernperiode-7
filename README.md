@@ -46,7 +46,17 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 
 22.11.2024
 - [ ] Als Nutzer möchte ich ein Logo auf der Webseite sehen
-- [ ] Als Nutzer möchte ich, dass die Schnelligkeit des Balls im Pong Game ein wenig schneller ist, damit es nicht so lange geht.
+- [X] Als Nutzer möchte ich, dass die Schnelligkeit des Balls im Pong Game ein wenig schneller ist, damit es nicht so lange geht.
 - [ ] Als Nutzer möchte ich, dass das Pong Game, wenn jemand 10 Punkte erreicht, neu anfängt, bzw aufhört
 - [ ] Als Nutzer möchte ich, das man erkennt, das ein weiters Spiel in arbeit ist (Flappy Bird) und ich das Spielfeld wo das Game hineinkommt schon sehen kann.
-- [ ] Als Nutzer möchte ich, dass die Neue Webseite veröffentlicht ist.
+- [X] Als Nutzer möchte ich, dass die Neue Webseite veröffentlicht ist.
+
+✍️ Heute habe ich Die Schnelligkeit meines Balles erhöht und dazu habe ich noch gesschaut was das Problem mit dem Bild sein könnte, aber ich habe leider immernoch keine Lösung gefunden. Ich habe mich ebenfalls schonmal erkundigt für die Assets vom Flappy Bird game, aber ich möchte es nicht im offiziellem Flappy Bird Style machen, sondern ein wenig von meinem Style reinbringen.
+
+29.11.2024
+- [ ] Als Nutzer möchte ich ein Logo auf der Webseite sehen
+- [ ] Als Nutzer möchte ich, dass das Pong Game, wenn jemand 10 Punkte erreicht, neu anfängt, bzw aufhört
+- [ ] Als Nutzer möchte ich, das man erkennt, das ein weiters Spiel in arbeit ist (Flappy Bird) und ich das Spielfeld wo das Game hineinkommt schon sehen kann.
+- [ ] an LB294 arbeiten, da ich etwas hintendrin bin
+
+
