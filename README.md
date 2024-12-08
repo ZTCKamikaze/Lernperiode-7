@@ -68,3 +68,12 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 - [ ] Als Nutzer möchte ich, das man erkennt, das ein weiters Spiel in arbeit ist (Flappy Bird) und ich das Spielfeld wo das Game hineinkommt schon sehen kann.
 - [ ] Als Nutzer möchte ich, dass die Webseite veröffentlicht ist, sodass sie von aussen zugreifbar ist.
 
+Heute habe ich den ersten Tag des Advent of Code gemacht, ich habe tewas länger gebraucht als gedacht, aber schlussendlich habe ich es geschafft und freue mich schon weiter dort zu arbeiten.
+
+13.12.2024
+
+- [ ] AoC Tag 2
+- [ ] AoC Tag 3
+- [ ] Webseite hosten (Gaming Webseite)
+- [ ] Pong game soll nach erreichen von 10 Punkten zu ende gehen.
+
