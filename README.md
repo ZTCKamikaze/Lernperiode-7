@@ -72,8 +72,8 @@ Heute habe ich den ersten Tag des Advent of Code gemacht, ich habe tewas länger
 
 13.12.2024
 
-- [ ] AoC Tag 2
-- [ ] AoC Tag 3
+- [ ] AoC Tag 2 Part 1
+- [ ] AoC Tag Part 2
 - [ ] Webseite hosten (Gaming Webseite)
 - [ ] Pong game soll nach erreichen von 10 Punkten zu ende gehen.
 
