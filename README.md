@@ -77,7 +77,7 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 - [ ] Webseite hosten (Gaming Webseite)
 - [ ] Pong game soll nach erreichen von 10 Punkten zu ende gehen.
 
-✍️ Heute habe ich beim Advent of Code weitergearbeitet und bin bis zum Tag 4 Part 2 gekommen. Also ich habe den Part 1 geschafft, aber den Part 2 leider nicht mehr, der Code sollte hochgeladen sein.
+✍️ Heute habe ich beim Advent of Code weitergearbeitet und bin bis zum Tag 4 Part 2 gekommen. Also ich habe den Part 1 geschafft, aber den Part 2 leider nicht mehr, der Code sollte hochgeladen sein. Womit ich noch nicht ganz zu frieden mit dem Hochladen von den Dateien, Sie sind ein wenig zu sehr versteckt, ich hätte lieber alle Programme in einem Visual Studio Ordner machen sollen, dann wäre es viel einfacher gewesen und ich müsste jetzt nicht immer ein neues Projekt aufsetzten.
 
 20.12.2024
 - [ ] AoC Tag 4 Part 2 fertig machen
