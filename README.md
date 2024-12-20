@@ -80,6 +80,22 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 ✍️ Heute habe ich beim Advent of Code weitergearbeitet und bin bis zum Tag 4 Part 2 gekommen. Also ich habe den Part 1 geschafft, aber den Part 2 leider nicht mehr, der Code sollte hochgeladen sein. Womit ich noch nicht ganz zu frieden mit dem Hochladen von den Dateien, Sie sind ein wenig zu sehr versteckt, ich hätte lieber alle Programme in einem Visual Studio Ordner machen sollen, dann wäre es viel einfacher gewesen und ich müsste jetzt nicht immer ein neues Projekt aufsetzten.
 
 20.12.2024
-- [ ] AoC Tag 4 Part 2 fertig machen
+- [X] AoC Tag 4 Part 2 fertig machen
 - [ ] AoC Tag 5 Part 1
+
+
+✍️ Heute habe ich am Advent Of Code weitergearbeitet, doch leider hatte ich einen grossen Fehler beim vierten Tag Part 2, und habe zu lange gebraucht und so konnte ich den Day 5 Part 1 nicht abschliessen, jedoch habe ich schon angefangen mit dem ausprobieren.
+
+
+## Fertiges Projekt
+
+Ich habe in dieser Lernperiode habe ich an meiner Webseite weitergearbeitet und diese Webseite hat ein neues Spiel bekommen und zwar das Pong Game. Doch als der Dezember angebrochen hat und unser Lehrer uns auf den Advent Of Code hingewiesen. Deshalb habe ich nur noch am Advent Of Code weitergearbeitet.
+
+Webseite neues Game:
+![image](https://github.com/user-attachments/assets/52c8e1c4-3328-40b5-b034-5b0b95aeef77)
+
+Beim Advent Of Code bin ich gerade (Privates Leaderboard) auf Platz 4, ich werde in den Ferien evtl. weiter daran arbeiten.
+
+![image](https://github.com/user-attachments/assets/6c597a5f-5c18-4d7d-99fb-d37bb0c07d67)
+
 
