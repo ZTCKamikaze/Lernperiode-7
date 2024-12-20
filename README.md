@@ -82,5 +82,4 @@ Als Projekt würde ich meine Gaming Webseite weiter machen, die ist perfekt, da 
 20.12.2024
 - [ ] AoC Tag 4 Part 2 fertig machen
 - [ ] AoC Tag 5 Part 1
-- [ ] AoC Tag 5 Part 2
-- [ ] Webseite hosten (Gaming Webseite)
+
